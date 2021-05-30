@@ -1,5 +1,5 @@
 # Image Classification Deep Learning CNN REST API (Keras TensorFlow + Flask)
-This repository contains the code for [*Building a simple Keras + deep learning REST API*](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html), published on the Keras.io blog.
+This repository contains the code for [*Building a simple Keras + deep learning REST API*](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html), published on the Keras.io blog with minor changes.
 
 The method covered here is intended to be instructional. It is _not_ meant to be production-level and capable of scaling under heavy load.
 
