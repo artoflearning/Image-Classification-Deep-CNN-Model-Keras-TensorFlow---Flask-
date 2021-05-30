@@ -26,7 +26,7 @@ if receiving keras.utils.generic_utils module AttributeError.
 Next, clone the repo:
 
 ```sh
-$ git clone https://github.com/jrosebr1/simple-keras-rest-api.git
+$ git clone https://github.com/artoflearning/Image-Classification-Deep-CNN-Model-Keras-TensorFlow---Flask-.git
 ```
 
 ## Starting the Keras server
